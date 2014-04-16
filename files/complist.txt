@@ -1,0 +1,18 @@
+#
+#
+#   compid     owner      userid    host                            simdir                      memlist                                                         
+#   str        str        str       str                             str                         list                                                            
+################################################################################################################################################################
+    vpac01     Kelly      meagan    vpac01.phy.vanderbilt.edu       /net/vpac01/astro1/meagan   ['vpac01','vpac02','vpac03','vpac12','vpac36','vpac38','vpac40']
+    vpac02     Baile?     meagan    vpac02.phy.vanderbilt.edu       /net/vpac02/astro1/meagan   ['vpac01','vpac02','vpac03','vpac12','vpac36','vpac38','vpac40']
+    vpac03     Manodeep   meagan    vpac03.phy.vanderbilt.edu       /net/vpac03/astro1/meagan   ['vpac01','vpac02','vpac03','vpac12','vpac36','vpac38','vpac40']
+    vpac12     ?          meagan    vpac12.phy.vanderbilt.edu       /net/vpac12/astro1/meagan   ['vpac01','vpac02','vpac03','vpac12','vpac36','vpac38','vpac40']
+    vpac36     Daniel     meagan    vpac36.phy.vanderbilt.edu       /net/vpac36/astro1/meagan   ['vpac01','vpac02','vpac03','vpac12','vpac36','vpac38','vpac40']
+    vpac38     Lauren     meagan    vpac38.phy.vanderbilt.edu       /net/vpac38/astro1/meagan   ['vpac01','vpac02','vpac03','vpac12','vpac36','vpac38','vpac40']
+    vpac40     ?          meagan    vpac40.phy.vanderbilt.edu       /net/vpac40/astro1/meagan   ['vpac01','vpac02','vpac03','vpac12','vpac36','vpac38','vpac40']
+    bender     ACCRE      langmm    bender.phy.vanderbilt.edu       /fs0/langmm                 ['vpac36','vpac38','accre','bender']                            
+    flexo      ACCRE      langmm    flexo.phy.vanderbilt.edu        /data1/langmm               ['vpac36','vpac38','accre']                                     
+    accre      ACCRE      langmm    vmplogin.accre.vanderbilt.edu   /scratch/langmm             ['accre']                                                       
+    cfhmac     Meagan     cfh5058   68.53.59.122                    /Users/cfh5058              ['cfhmac']                                                      
+    local      user       langmm    10.8.71.89                      ~/                          ['local']                                                       
+    stampede   XSEDE      cfh5058   stampede.tacc.xsede.org         /scratch/02555/cfh5058      []
